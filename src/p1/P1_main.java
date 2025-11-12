@@ -2,7 +2,7 @@ package p1;
 
 public class P1_main {
 	public static void main(String[] args) {
-		int stockwert = 0;
+		int stockwert = 4;
 		
 		switch(stockwert) {
 		case 0:
