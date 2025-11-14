@@ -5,7 +5,7 @@ public class H2_main {
 		boolean x = true, y = true, a = true, b = true, c = true;
 		
 		//hat folgende Definitionsmengen: 0,1,10 oder 11
-		int input = 10;
+		int input = 0;
 		
 		//x und y zuweisen
 		if (input == 10 || input == 11) {

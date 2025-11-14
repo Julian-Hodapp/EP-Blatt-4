@@ -2,15 +2,16 @@ package h1;
 
 public class H1_main {
 	public static void main(String[] args) {
-		int zone = 7;
+		int zone =2;
 		
-		double price = 1.0;
+		double price = 20;
 		
 		switch(zone) {
 		case 0:
 			price = 0.0;
+			break;
 		case 1:
-			price = 2;
+			price = 2.0;
 			break;
 		case 2:
 			price = 2.35;
